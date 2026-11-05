@@ -1,0 +1,30 @@
+{
+  "name": "edesign",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vue-tsc --noEmit && vite build && vite build --config vite.lib.config.ts && vue-tsc -p tsconfig.lib.json",
+    "inventory": "node scripts/inventory.mjs",
+    "demos:generate": "npm run inventory && node scripts/generate-demos.mjs",
+    "pack:ui": "npm pack ./packages/ui --pack-destination .",
+    "check": "vue-tsc --noEmit",
+    "format": "prettier --write src scripts *.ts *.json README.md CHANGELOG.md"
+  },
+  "dependencies": {
+    "@quasar/extras": "latest",
+    "quasar": "latest",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@playwright/test": "latest",
+    "@quasar/vite-plugin": "latest",
+    "@vitejs/plugin-vue": "latest",
+    "prettier": "^3.9.10",
+    "sass-embedded": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "vue-tsc": "latest"
+  }
+}

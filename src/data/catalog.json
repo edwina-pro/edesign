@@ -1,0 +1,856 @@
+[
+  {
+    "name": "QBtn",
+    "label": "按鈕",
+    "category": "操作",
+    "file": "quasar/DemoQBtn.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QBtnDropdown",
+    "label": "下拉按鈕",
+    "category": "操作",
+    "file": "quasar/DemoQBtnDropdown.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QBtnGroup",
+    "label": "按鈕群組",
+    "category": "操作",
+    "file": "quasar/DemoQBtnGroup.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QBtnToggle",
+    "label": "切換按鈕",
+    "category": "操作",
+    "file": "quasar/DemoQBtnToggle.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QFab",
+    "label": "浮動操作",
+    "category": "操作",
+    "file": "quasar/DemoQFab.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QInput",
+    "label": "文字輸入",
+    "category": "表單",
+    "file": "quasar/DemoQInput.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QField",
+    "label": "欄位容器",
+    "category": "表單",
+    "file": "quasar/DemoQField.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSelect",
+    "label": "下拉選單",
+    "category": "表單",
+    "file": "quasar/DemoQSelect.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QCheckbox",
+    "label": "核取方塊",
+    "category": "表單",
+    "file": "quasar/DemoQCheckbox.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QRadio",
+    "label": "單選按鈕",
+    "category": "表單",
+    "file": "quasar/DemoQRadio.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QToggle",
+    "label": "開關",
+    "category": "表單",
+    "file": "quasar/DemoQToggle.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QOptionGroup",
+    "label": "選項群組",
+    "category": "表單",
+    "file": "quasar/DemoQOptionGroup.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSlider",
+    "label": "滑桿",
+    "category": "表單",
+    "file": "quasar/DemoQSlider.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QRange",
+    "label": "範圍選擇",
+    "category": "表單",
+    "file": "quasar/DemoQRange.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QKnob",
+    "label": "旋鈕",
+    "category": "表單",
+    "file": "quasar/DemoQKnob.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QRating",
+    "label": "評分",
+    "category": "表單",
+    "file": "quasar/DemoQRating.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QDate",
+    "label": "日期",
+    "category": "表單",
+    "file": "quasar/DemoQDate.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTime",
+    "label": "時間",
+    "category": "表單",
+    "file": "quasar/DemoQTime.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QColor",
+    "label": "顏色",
+    "category": "表單",
+    "file": "quasar/DemoQColor.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QFile",
+    "label": "檔案選擇",
+    "category": "表單",
+    "file": "quasar/DemoQFile.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QUploader",
+    "label": "檔案佇列",
+    "category": "表單",
+    "file": "quasar/DemoQUploader.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QEditor",
+    "label": "文字編輯器",
+    "category": "表單",
+    "file": "quasar/DemoQEditor.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QForm",
+    "label": "表單驗證",
+    "category": "表單",
+    "file": "quasar/DemoQForm.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QCard",
+    "label": "卡片",
+    "category": "容器",
+    "file": "quasar/DemoQCard.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QBanner",
+    "label": "提示橫幅",
+    "category": "容器",
+    "file": "quasar/DemoQBanner.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QDialog",
+    "label": "對話視窗",
+    "category": "容器",
+    "file": "quasar/DemoQDialog.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QMenu",
+    "label": "選單",
+    "category": "容器",
+    "file": "quasar/DemoQMenu.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QPopupProxy",
+    "label": "自適應彈出",
+    "category": "容器",
+    "file": "quasar/DemoQPopupProxy.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QPopupEdit",
+    "label": "行內編輯",
+    "category": "容器",
+    "file": "quasar/DemoQPopupEdit.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QExpansionItem",
+    "label": "展開面板",
+    "category": "容器",
+    "file": "quasar/DemoQExpansionItem.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSplitter",
+    "label": "分隔面板",
+    "category": "容器",
+    "file": "quasar/DemoQSplitter.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QLayout",
+    "label": "應用佈局",
+    "category": "導覽",
+    "file": "quasar/DemoQLayout.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QDrawer",
+    "label": "側邊選單",
+    "category": "導覽",
+    "file": "quasar/DemoQDrawer.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QToolbar",
+    "label": "工具列",
+    "category": "導覽",
+    "file": "quasar/DemoQToolbar.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QBreadcrumbs",
+    "label": "麵包屑",
+    "category": "導覽",
+    "file": "quasar/DemoQBreadcrumbs.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTabs",
+    "label": "頁籤",
+    "category": "導覽",
+    "file": "quasar/DemoQTabs.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTabPanels",
+    "label": "分頁內容",
+    "category": "導覽",
+    "file": "quasar/DemoQTabPanels.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QPagination",
+    "label": "分頁",
+    "category": "導覽",
+    "file": "quasar/DemoQPagination.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QStepper",
+    "label": "步驟",
+    "category": "導覽",
+    "file": "quasar/DemoQStepper.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTree",
+    "label": "樹狀結構",
+    "category": "資料",
+    "file": "quasar/DemoQTree.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTable",
+    "label": "資料表格",
+    "category": "資料",
+    "file": "quasar/DemoQTable.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QMarkupTable",
+    "label": "簡易表格",
+    "category": "資料",
+    "file": "quasar/DemoQMarkupTable.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QList",
+    "label": "清單",
+    "category": "資料",
+    "file": "quasar/DemoQList.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTimeline",
+    "label": "時間軸",
+    "category": "資料",
+    "file": "quasar/DemoQTimeline.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QChatMessage",
+    "label": "聊天訊息",
+    "category": "資料",
+    "file": "quasar/DemoQChatMessage.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QAvatar",
+    "label": "頭像",
+    "category": "媒體",
+    "file": "quasar/DemoQAvatar.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QBadge",
+    "label": "徽章",
+    "category": "媒體",
+    "file": "quasar/DemoQBadge.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QChip",
+    "label": "標籤",
+    "category": "媒體",
+    "file": "quasar/DemoQChip.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QIcon",
+    "label": "圖示",
+    "category": "媒體",
+    "file": "quasar/DemoQIcon.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QImg",
+    "label": "圖片",
+    "category": "媒體",
+    "file": "quasar/DemoQImg.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QCarousel",
+    "label": "輪播",
+    "category": "媒體",
+    "file": "quasar/DemoQCarousel.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QParallax",
+    "label": "視差背景",
+    "category": "媒體",
+    "file": "quasar/DemoQParallax.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QVideo",
+    "label": "影片容器",
+    "category": "媒體",
+    "file": "quasar/DemoQVideo.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTooltip",
+    "label": "提示文字",
+    "category": "媒體",
+    "file": "quasar/DemoQTooltip.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QLinearProgress",
+    "label": "線型進度",
+    "category": "回饋",
+    "file": "quasar/DemoQLinearProgress.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QCircularProgress",
+    "label": "環型進度",
+    "category": "回饋",
+    "file": "quasar/DemoQCircularProgress.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinner",
+    "label": "載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinner.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSkeleton",
+    "label": "骨架屏",
+    "category": "回饋",
+    "file": "quasar/DemoQSkeleton.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QInnerLoading",
+    "label": "區域載入",
+    "category": "回饋",
+    "file": "quasar/DemoQInnerLoading.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QAjaxBar",
+    "label": "Ajax 進度",
+    "category": "回饋",
+    "file": "quasar/DemoQAjaxBar.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QScrollArea",
+    "label": "捲動區域",
+    "category": "捲動",
+    "file": "quasar/DemoQScrollArea.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QVirtualScroll",
+    "label": "虛擬清單",
+    "category": "捲動",
+    "file": "quasar/DemoQVirtualScroll.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QInfiniteScroll",
+    "label": "無限捲動",
+    "category": "捲動",
+    "file": "quasar/DemoQInfiniteScroll.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QPullToRefresh",
+    "label": "下拉更新",
+    "category": "捲動",
+    "file": "quasar/DemoQPullToRefresh.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QScrollObserver",
+    "label": "捲動觀察",
+    "category": "捲動",
+    "file": "quasar/DemoQScrollObserver.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QResizeObserver",
+    "label": "尺寸觀察",
+    "category": "工具",
+    "file": "quasar/DemoQResizeObserver.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QIntersection",
+    "label": "可視區域",
+    "category": "工具",
+    "file": "quasar/DemoQIntersection.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QResponsive",
+    "label": "固定比例",
+    "category": "工具",
+    "file": "quasar/DemoQResponsive.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSeparator",
+    "label": "分隔線",
+    "category": "工具",
+    "file": "quasar/DemoQSeparator.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpace",
+    "label": "彈性空間",
+    "category": "工具",
+    "file": "quasar/DemoQSpace.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QBar",
+    "label": "頂部小工具列",
+    "category": "工具",
+    "file": "quasar/DemoQBar.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSlideItem",
+    "label": "滑動操作",
+    "category": "工具",
+    "file": "quasar/DemoQSlideItem.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSlideTransition",
+    "label": "展開動畫",
+    "category": "工具",
+    "file": "quasar/DemoQSlideTransition.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QNoSsr",
+    "label": "僅客戶端",
+    "category": "工具",
+    "file": "quasar/DemoQNoSsr.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QBreadcrumbsEl",
+    "label": "QBreadcrumbsEl 組合示範",
+    "category": "導覽",
+    "file": "quasar/DemoQBreadcrumbsEl.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QCardActions",
+    "label": "QCardActions 組合示範",
+    "category": "容器",
+    "file": "quasar/DemoQCardActions.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QCardSection",
+    "label": "QCardSection 組合示範",
+    "category": "容器",
+    "file": "quasar/DemoQCardSection.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QCarouselControl",
+    "label": "QCarouselControl 組合示範",
+    "category": "媒體",
+    "file": "quasar/DemoQCarouselControl.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QCarouselSlide",
+    "label": "QCarouselSlide 組合示範",
+    "category": "媒體",
+    "file": "quasar/DemoQCarouselSlide.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QFabAction",
+    "label": "QFabAction 組合示範",
+    "category": "操作",
+    "file": "quasar/DemoQFabAction.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QFooter",
+    "label": "QFooter 組合示範",
+    "category": "導覽",
+    "file": "quasar/DemoQFooter.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QHeader",
+    "label": "QHeader 組合示範",
+    "category": "導覽",
+    "file": "quasar/DemoQHeader.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QItem",
+    "label": "QItem 組合示範",
+    "category": "資料",
+    "file": "quasar/DemoQItem.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QItemLabel",
+    "label": "QItemLabel 組合示範",
+    "category": "資料",
+    "file": "quasar/DemoQItemLabel.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QItemSection",
+    "label": "QItemSection 組合示範",
+    "category": "資料",
+    "file": "quasar/DemoQItemSection.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QPage",
+    "label": "QPage 組合示範",
+    "category": "導覽",
+    "file": "quasar/DemoQPage.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QPageContainer",
+    "label": "QPageContainer 組合示範",
+    "category": "導覽",
+    "file": "quasar/DemoQPageContainer.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QStep",
+    "label": "QStep 組合示範",
+    "category": "導覽",
+    "file": "quasar/DemoQStep.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QStepperNavigation",
+    "label": "QStepperNavigation 組合示範",
+    "category": "導覽",
+    "file": "quasar/DemoQStepperNavigation.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTab",
+    "label": "QTab 組合示範",
+    "category": "導覽",
+    "file": "quasar/DemoQTab.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTabPanel",
+    "label": "QTabPanel 組合示範",
+    "category": "導覽",
+    "file": "quasar/DemoQTabPanel.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTd",
+    "label": "QTd 組合示範",
+    "category": "資料",
+    "file": "quasar/DemoQTd.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTh",
+    "label": "QTh 組合示範",
+    "category": "資料",
+    "file": "quasar/DemoQTh.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTr",
+    "label": "QTr 組合示範",
+    "category": "資料",
+    "file": "quasar/DemoQTr.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QTimelineEntry",
+    "label": "QTimelineEntry 組合示範",
+    "category": "資料",
+    "file": "quasar/DemoQTimelineEntry.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QToolbarTitle",
+    "label": "QToolbarTitle 組合示範",
+    "category": "導覽",
+    "file": "quasar/DemoQToolbarTitle.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QPageScroller",
+    "label": "回到頂部",
+    "category": "導覽",
+    "file": "quasar/DemoQPageScroller.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QPageSticky",
+    "label": "固定操作區",
+    "category": "導覽",
+    "file": "quasar/DemoQPageSticky.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QRouteTab",
+    "label": "路由頁籤",
+    "category": "導覽",
+    "file": "quasar/DemoQRouteTab.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QUploaderAddTrigger",
+    "label": "自訂檔案選取",
+    "category": "表單",
+    "file": "quasar/DemoQUploaderAddTrigger.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerAudio",
+    "label": "Audio 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerAudio.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerBall",
+    "label": "Ball 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerBall.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerBars",
+    "label": "Bars 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerBars.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerBox",
+    "label": "Box 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerBox.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerClock",
+    "label": "Clock 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerClock.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerComment",
+    "label": "Comment 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerComment.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerCube",
+    "label": "Cube 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerCube.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerDots",
+    "label": "Dots 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerDots.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerFacebook",
+    "label": "Facebook 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerFacebook.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerGears",
+    "label": "Gears 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerGears.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerGrid",
+    "label": "Grid 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerGrid.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerHearts",
+    "label": "Hearts 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerHearts.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerHourglass",
+    "label": "Hourglass 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerHourglass.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerInfinity",
+    "label": "Infinity 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerInfinity.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerIos",
+    "label": "Ios 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerIos.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerOrbit",
+    "label": "Orbit 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerOrbit.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerOval",
+    "label": "Oval 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerOval.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerPie",
+    "label": "Pie 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerPie.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerPuff",
+    "label": "Puff 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerPuff.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerRadio",
+    "label": "Radio 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerRadio.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerRings",
+    "label": "Rings 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerRings.vue",
+    "status": "demo"
+  },
+  {
+    "name": "QSpinnerTail",
+    "label": "Tail 載入動畫",
+    "category": "回饋",
+    "file": "quasar/DemoQSpinnerTail.vue",
+    "status": "demo"
+  }
+]

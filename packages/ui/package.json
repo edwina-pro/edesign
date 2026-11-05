@@ -1,0 +1,25 @@
+{
+  "name": "@edwina/edesign",
+  "version": "0.2.0",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/edesign.js",
+  "module": "./dist/edesign.js",
+  "types": "./dist/types/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/types/index.d.ts",
+      "import": "./dist/edesign.js"
+    },
+    "./style.css": "./dist/edesign.css"
+  },
+  "peerDependencies": {
+    "vue": "^3.5.0",
+    "quasar": "^2.35.2"
+  },
+  "sideEffects": [
+    "**/*.css"
+  ]
+}
